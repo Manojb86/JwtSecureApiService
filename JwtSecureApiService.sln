@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSecureApiService", "JwtSecureApiService\JwtSecureApiService.csproj", "{DC036509-541C-406C-8D08-DC1D8C499F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC036509-541C-406C-8D08-DC1D8C499F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC036509-541C-406C-8D08-DC1D8C499F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC036509-541C-406C-8D08-DC1D8C499F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC036509-541C-406C-8D08-DC1D8C499F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22FA6879-84A1-4379-9BB1-D8AA0EDEB463}
+	EndGlobalSection
+EndGlobal
